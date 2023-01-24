@@ -13,7 +13,7 @@
 </template>
 
 <script>
-/* eslint-disable */
+/* eslint-disable */ 
 import axios from 'axios';
 
 export default {
